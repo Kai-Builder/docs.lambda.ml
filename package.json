@@ -1,0 +1,7 @@
+{
+  "name": "docs.lambda.ml",
+  "version": "1.0.0",
+  "dependencies": {
+    "lambda": "^0.10.3"
+  }
+}
